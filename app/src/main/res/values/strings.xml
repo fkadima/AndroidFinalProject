@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">The Early Church of Yeshua</string>
+    <string name="menu_drawer_open">Drawer Open</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+    <string name="welcome">WELCOME TO THE EARLY CHURCH</string>
+    <string name="office_hours">
+        Monday - Friday
+        \n10:00AM - 04:30PM
+    </string>
+    <string name="service_hours">
+        Wednesday &amp; Friday
+        \n07:00PM - 08:30PM
+        \n
+        \nSunday
+        \n10:30AM - 01:00PM
+    </string>
+    <string name="our_address">
+        1805 E. 8th Street
+        \nJeffersonville
+        \nIndiana 47130
+    </string>
+    <string name="thank_you">Thank you for your donation.</string>
+    <string name="blessing">May the Lord Yeshua bless you abundantly.</string>
+    <string name="aboutText">
+        Here you will find food for your souls, and you will be blessed, as it is written: Blessed is he that reads, and they that hear the words of prophecy, and keep the things that are written therein! For the time is at hand. (Revelation 1:3). We are indeed closer to the Lords Return than in the days when we believed.
+        This is why we must carefully keep the things that are written in the prophetic Word and take heed, as Peter said: &quot;We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts.
+        \nKnowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake [as they were] moved by the Holy Ghost.&quot; 2 Peter 1:19-21).
+        This portal is the answer to brethren from all over the world (such as the Netherlands, Zimbabwe or Kenya) who ask us for references to the famous "Let us Get Orientation", written by Pastor Pierre Kas, or to our open letters. They contact us to share their experiences, to debate and ask questions or to invite us to visit them in their respective countries. However, there are some points of discussion which are already treated in our former writings, but which are not available to the brothers because they are not all English or French speakers. Truly, communicating with them is of the utmost importance to us, and that is why we want to make all our writings available in several other languages, such as Spanish, Portuguese, German, Italian, Polish, Russian and Spanish
+        \n
+        \nThis is a great undertaking, you will tell me, but it is also in accordance with the Great Commission of our Adonai, who commanded:
+        "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.
+        \nTeaching them to observe all things whatsoever I have commanded you: and, lo, I am with you always, [even] unto the end of the world. Amen." (Matthew 28:19-20).
+        I believe He is with us all the days of this mission, just as He promised. Please do not hesitate to contact us to submit your comments or exchange views, even contradictory ones. Yeshua was a great debater and he was not afraid to be questioned even publicly.
+        \n\nThis is no longer the case today among all denominations, who have hidden behind excuses and give the impression of collusion between them. But the Early Church of Yeshua Ha Mashyah is the church of debate and confrontation, just like their Lord. Happy reading!
+    </string>
+    <string name="financialPortal">
+        Our financial portal is still under construction.
+        \nPlease come back later.
+    </string>
+    <string name="prayer_submission">
+        Your prayer request has been successfully submitted.
+        \nOne of our pastor will reach out to you as soon as possible.
+        \n\nMay God bless you.
+    </string>
+</resources>
